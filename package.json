@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/stark-alex/beergammon-server#readme",
   "dependencies": {
-    "beergammon-game": "^0.1.7",
+    "beergammon-game": "^0.1.8",
     "boardgame.io": "^0.39.4",
     "esm": "^3.2.25"
   }
